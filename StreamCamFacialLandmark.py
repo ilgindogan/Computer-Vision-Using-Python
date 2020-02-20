@@ -10,12 +10,9 @@ from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
 from SocketServer import ThreadingMixIn
 import StringIO
 import time
-import numpy as np
 import cv2 as cv
-import json
-import os
 import imutils
-import math
+
 
 capture=None
 
