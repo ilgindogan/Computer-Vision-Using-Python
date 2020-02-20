@@ -5,9 +5,6 @@
 ## 1.Dependencies
 
 python 2.7
-
 Pillow
-
 imutils
-
 opencv
