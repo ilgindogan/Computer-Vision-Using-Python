@@ -1,7 +1,7 @@
 # Computer-Vision-Using-Python
-1.StreamCam.py  Video Streaming PiCamera and Webcam
+1.Video Streaming PiCamera and Webcam (StreamCam.py)  
 
-## Dependencies
+## 1.Dependencies
 
 python 2.7
 
@@ -12,4 +12,4 @@ Pillow
 imutils
 
 
-opencv 
+opencv
