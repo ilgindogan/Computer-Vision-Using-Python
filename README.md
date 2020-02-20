@@ -5,6 +5,7 @@
 Dependencies
 
 python 2.7
+
 Pillow # from PIL import Image
 imutils # for streaming PiCamera
 opencv # for using Computer Vision
