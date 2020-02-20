@@ -6,10 +6,10 @@
 python 2.7
 
 
-Pillow from PIL import Image
+Pillow
 
 
-imutils for streaming PiCamera
+imutils
 
 
-opencv for using Computer Vision
+opencv 
