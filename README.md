@@ -1,2 +1,10 @@
 # Computer-Vision-Using-Python
-You can find to answer your questions about computer vision project.  Also, you could find cookie scripts and developable scripts. Therefore, if you want to make industrial product I advise to you download and develop the developable scripts. 
+1.StreamCam.py
+ ---- Video Streaming PiCamera and Webcam
+
+Dependencies
+
+python 2.7
+Pillow # from PIL import Image
+imutils # for streaming PiCamera
+opencv # for using Computer Vision
