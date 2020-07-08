@@ -21,7 +21,7 @@ V3 = 0
 aaaaa = 0
 desktopRevize= 0
 ### reviiiiiiiii
-
+##aaaaaaaa
 class OpenCam(BaseHTTPRequestHandler):
 
     def do_GET(self):
