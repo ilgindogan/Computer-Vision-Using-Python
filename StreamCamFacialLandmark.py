@@ -15,6 +15,7 @@ import imutils
 
 
 capture=None
+deneme = 0
 
 class OpenCam(BaseHTTPRequestHandler):
 
