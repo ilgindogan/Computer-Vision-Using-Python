@@ -16,6 +16,7 @@ import imutils
 
 capture=None
 deneme = 0
+V3 = 0
 
 class OpenCam(BaseHTTPRequestHandler):
 
