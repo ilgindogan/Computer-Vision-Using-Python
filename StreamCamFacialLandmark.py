@@ -20,7 +20,7 @@ deneme = 0
 V3 = 0
 aaaaa = 0
 desktopRevize= 0
-
+### reviiiiiiiii
 
 class OpenCam(BaseHTTPRequestHandler):
 
