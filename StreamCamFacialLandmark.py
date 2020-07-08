@@ -15,9 +15,10 @@ import imutils
 
 
 capture=None
+#" deneme git pull push commit function"
 deneme = 0
 V3 = 0
-desktopRevize= 0 
+desktopRevize= 0
 
 class OpenCam(BaseHTTPRequestHandler):
 
